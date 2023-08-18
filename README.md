@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heglinjon
-- 👀 I’m interested in iOS Development
+- 👀 I’m interested in iOS Development and Live Streaming Solutions
 - 🌱 I’m currently learning AI solutions
 - 💞️ I’m looking to collaborate on AI Projects integrating with Swift and iOS Development
 - 📫 How to reach me heglinjonathan@gmail.com
